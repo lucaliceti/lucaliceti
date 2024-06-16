@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaliceti
 - 👀 I’m interested in comptuer science and all computer related stuff.
-- 🌱 I’m currently learning python as of 12/2022
+- 🌱 I’m currently have learned HHTML/CSS, Java, Python, and C.
 - 💞️ I’m looking to collaborate on projects related to linux.
 
 <!---
